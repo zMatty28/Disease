@@ -1,0 +1,5 @@
+name: Diseases
+author: zMatty28
+version: 1.0.0-SNAPSHOT
+main: it.matty.disease.Diseases
+api-version: 1.15
